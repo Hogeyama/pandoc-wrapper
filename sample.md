@@ -10,6 +10,9 @@ pandoc_opts_:
   - -o out.tex
 ---
 
+Warning: This markdown file is written for pandoc and github can't preview this correctly. See raw sorce.
+
+
 # Foo
 
 # Bar
